@@ -23,7 +23,6 @@
  *
  * Programms writers:
  * Name: Joel Niskanen & Eetu
- * Student number: 50272794
  *
  */
 #include <iostream>
